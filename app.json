@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "068de1e4-ecb9-4fbd-ac6d-fa83c33f2740"
+      }
+    },
+    "owner": "adorablepuddle"
   }
 }
